@@ -1,15 +1,14 @@
-# Title of the week
-Backend Week 1: Maven   
+# Backend Week 1: Maven   
 
 ## Session
-### Max five words description
+### Maven and Spring Boot introduction
 
 *20-06-2022*
 
 <!-- (Do not change the line below!!!) -->
 | **Path Owner** | **Content Deliverer** | 
 | --- | --- | 
-| [Roberto Auro] (https://github.com/robertoaz) | [Roberto Auro](https://github.com/robertoaz) | \ 
+| [Roberto Auro](https://github.com/robertoaz) | [Roberto Auro](https://github.com/robertoaz) | \ 
 
 \
 &nbsp; <!-- (Do not change this and above line PLEASE!!!) -->
