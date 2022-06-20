@@ -1,49 +1,38 @@
 # Title of the week
-< Abstract of the week (small summary in max two lines).>
+Backend Week 1: Maven   
 
 ## Session
 ### Max five words description
 
-*DD-MM-YYYY*
+*20-06-2022*
 
 <!-- (Do not change the line below!!!) -->
 | **Path Owner** | **Content Deliverer** | 
 | --- | --- | 
-| [name of the path owner](github link) | [content deliverer](github link) | \ 
+| [Roberto Auro] (https://github.com/robertoaz) | [Roberto Auro](https://github.com/robertoaz) | \ 
 
 \
 &nbsp; <!-- (Do not change this and above line PLEASE!!!) -->
 **Key learning points** <!-- (Do not change this line!!!) -->
-1. Most important point
-2. ...
-3. ...
-4. ...
-5. Less important point
+1. Introduction to Maven
+2. Introduction to SpringBoot
 
-**** <!-- (Delete this comment and just leave the 4 *) -->
+**** 
 
 ## Exercise
-(Autonomous work) <!-- Comment wheter if it is autonomous or group work -->
+After an initial meeting with our mentor of the Backend team, we had to create a maven project with some funcionality and then install it on our maven repository. Then, we created a new project with two different modules, one of a regular java app and the other as a SpringBoot app. Both modules should use the funcionality of the previous library created through maven
 <Statement>
-### [Exercise 1](link git repo)
-**Author** [name](link git user)
-- Development point 1
-- Development point 2
 
- ![img_name](assets/img_name.jpg)  
+### [Exercise 1](https://github.com/uo271580/pablol-academy-assignments)
+**Author** [Pablo Lopez](https://github.com/uo271580)
+- Create maven project
+- Install maven archetype
+- Create mulitmodule project
+- Use library in both modules
 
-### [Exercise 2](link git repo)
-**Author** [name](link git user)
-- Development point 1
-- Development point 2
-
-  
- ![img_name](assets/img_name.jpg)
-  
-### [Exercise 3](link git repo)
-**Author** [name](link git user)
-- Development point 1
-- Development point 2
-
-  
- ![img_name](assets/img_name.jpg)  
+### [Exercise 1](https://github.com/gs-Manuel/manuelgs-academy-assignments)
+**Author** [Manuel Gonzalez](https://github.com/gs-Manuel)
+- Create maven project
+- Install maven archetype
+- Create mulitmodule project
+- Use library in both modules
