@@ -9,8 +9,9 @@ with some of the areas of the marketing team and teh people behind it.
 
 <!-- (Do not change the line below!!!) -->
 | **Path Owner** | **Content Deliverer** | 
-| Olalla Salazar https://es.linkedin.com/in/olallasalazar | --- |
-| María Varela https://es.linkedin.com/in/varelamaria/en?trk=people-guest_people_search-card | --- | 
+| --- | --- |
+| [Olalla Salazar](https://es.linkedin.com/in/olallasalazar) | --- |
+| [María Varela](https://es.linkedin.com/in/varelamaria/en?trk=people-guest_people_search-card) | --- | \
 
 
 \
@@ -25,9 +26,10 @@ with some of the areas of the marketing team and teh people behind it.
 **** 
 
 ## Exercise
-
+Helped the marketing team with the event on LinkedIn
 <Statement>
-### [Exercise 1] Live streaming an event on LinkedIn live https://www.linkedin.com/video/event/urn:li:ugcPost:6942487250475606017/
+  
+### [Live streaming an event on LinkedIn live](https://www.linkedin.com/video/event/urn:li:ugcPost:6942487250475606017/)
 **Author** [Alberto Arias](https://es.linkedin.com/in/alberto-arias-zhukov-9813a6205/en)
 - Coordinating with the host of the event
 - Live streaming on LinkedIn Live a Zoom meeting through Restream.io
