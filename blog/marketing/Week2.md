@@ -8,8 +8,9 @@ This was a meeting heavy week, focused on me getting to know some of the several
 
 <!-- (Do not change the line below!!!) -->
 | **Path Owner** | **Content Deliverer** | 
-| Olalla Salazar https://es.linkedin.com/in/olallasalazar | --- |
-| María Varela https://es.linkedin.com/in/varelamaria/en?trk=people-guest_people_search-card | --- | 
+| --- | --- |
+| [Olalla Salazar](https://es.linkedin.com/in/olallasalazar) | --- |
+| [María Varela](https://es.linkedin.com/in/varelamaria/en?trk=people-guest_people_search-card) | --- | \
 
 
 \
@@ -26,7 +27,8 @@ This was a meeting heavy week, focused on me getting to know some of the several
 ## Exercise
 
 <Statement>
-### [Exercise 1]Live streaming event to LinkedIn Live https://www.linkedin.com/video/event/urn:li:ugcPost:6944950842831601664/
+  
+### [Live streaming event to LinkedIn Live](https://www.linkedin.com/video/event/urn:li:ugcPost:6944950842831601664/)
 **Author** [Alberto Arias](https://es.linkedin.com/in/alberto-arias-zhukov-9813a6205/en)
 - Coordinating with the host of the event
 - Live streaming on LinkedIn Live a Zoom meeting through Restream.io
