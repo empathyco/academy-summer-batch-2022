@@ -17,8 +17,8 @@ _11-07-2022_
 **Key learning points** <!-- (Do not change this line!!!) -->
 
 1. REST Controller
-3. HTML Requests
-2. HTML Responses
+2. HTML Requests
+3. HTML Responses
 
 ---
 
