@@ -1,4 +1,4 @@
-# Platform Week4- [Containerization] (https://github.com/empathyco/academy-platform-training-budget/blob/main/docs/docker.md)
+# Platform Week4- [Containerization and Kubernetes](https://github.com/empathyco/academy-platform-training-budget/blob/main/docs/docker.md)
 <Dockerize database and backend services>
 
 ## Session
@@ -32,3 +32,9 @@
 **Author** [Martín Van Puffelen](https://github.com/martinvplopez) and [Itziar Esnal Gofinondo](https://github.com/ItziEG)
 - Running multiple continers at once
 - Connect services with port exposings
+
+
+### [Kubernetes](https://github.com/empathyco/academy-platform-training-budget/tree/main/kubernetes)
+**Author** [Martín Van Puffelen](https://github.com/martinvplopez) and [Itziar Esnal Gofinondo](https://github.com/ItziEG)
+- Learning Kubernetes Architecture
+- Deploying with kubernetes
