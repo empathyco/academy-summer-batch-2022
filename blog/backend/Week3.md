@@ -9,7 +9,7 @@ _04-07-2022_
 <!-- (Do not change the line below!!!) -->
 
 | **Path Owner**                               | **Content Deliverer**                        |
-| -------------------------------------------- | -------------------------------------------- | --- |
+| -------------------------------------------- | -------------------------------------------- |
 | [Roberto Auro](https://github.com/robertoaz) | [Roberto Auro](https://github.com/robertoaz) | \   |
 
 \
