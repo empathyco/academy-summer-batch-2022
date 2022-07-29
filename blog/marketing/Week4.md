@@ -4,7 +4,7 @@ A week centered around a sport sponsorship and reporting.
 ## Session
 ### Sport sponsorship and reporting.
 
-*27-06-2022*
+*04-07-2022*
 
 <!-- (Do not change the line below!!!) -->
 | **Path Owner** | **Content Deliverer** |

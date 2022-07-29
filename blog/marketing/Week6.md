@@ -4,7 +4,7 @@ Finishing LinkedIn Ads course, participating in Instagram's content decision mak
 ## Session
 ### LinkedIn Ads and Instagram content strategy. 
 
-*27-06-2022*
+*18-07-2022*
 
 <!-- (Do not change the line below!!!) -->
 | **Path Owner** | **Content Deliverer** |

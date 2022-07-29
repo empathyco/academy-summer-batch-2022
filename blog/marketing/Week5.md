@@ -4,7 +4,7 @@ Usual reporting, paid social meetings with our agency and participating in the p
 ## Session
 ### Reporting, paid social and Instgram strategy creation.
 
-*27-06-2022*
+*11-07-2022*
 
 <!-- (Do not change the line below!!!) -->
 | **Path Owner** | **Content Deliverer** |
