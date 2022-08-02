@@ -1,49 +1,39 @@
 # Platform Week7- [ArgoCD]()
-< Abstract of the week (small summary in max two lines).>
+<Including continuously monitoring running application with ArgoCD Kubernetes controller. Individual tasks optimising proyect.>
 
 ## Session
 ### Max five words description
 
-*DD-MM-YYYY*
+*18-07-2022*
 
 <!-- (Do not change the line below!!!) -->
 | **Path Owner** | **Content Deliverer** | 
 | --- | --- | 
-| [name of the path owner](github link) | [content deliverer](github link) | \ 
+| [Guillermo Vigil](https://github.com/guillermotti) | [Marcelo Menéndez](https://github.com/marcemv90) and [Javier París](https://github.com/JParisR) | \ 
 
 \
 &nbsp; <!-- (Do not change this and above line PLEASE!!!) -->
 **Key learning points** <!-- (Do not change this line!!!) -->
-1. Most important point
-2. ...
-3. ...
-4. ...
-5. Less important point
+1. Continuous deployment, updating with ArgoCD
+2. MongoAtlas
 
 **** <!-- (Delete this comment and just leave the 4 *) -->
 
 ## Exercise
 (Autonomous work) <!-- Comment wheter if it is autonomous or group work -->
 <Statement>
-### [Exercise 1](link git repo)
-**Author** [name](link git user)
-- Development point 1
-- Development point 2
 
- ![img_name](assets/img_name.jpg)  
+### [Updating with ArgoCD](https://github.com/empathyco/academy-platform-training-budget/blob/main/Jenkinsfile#L110-L129)
+**Author** [Martín Van Puffelen](https://github.com/martinvplopez) and [Itziar Esnal Gofinondo](https://github.com/ItziEG)
+- Argo comparing cluster state with Github state
 
-### [Exercise 2](link git repo)
-**Author** [name](link git user)
-- Development point 1
-- Development point 2
-
+### [MongoAtlas migration script](https://github.com/empathyco/academy-platform-training-budget/blob/main/data-migration/data-migration.js)
+**Author** [Martín Van Puffelen](https://github.com/martinvplopez)
+- Switch to migrate collections from GoogleSheets
+- Clean NodeJS dependencies
   
- ![img_name](assets/img_name.jpg)
   
-### [Exercise 3](link git repo)
-**Author** [name](link git user)
-- Development point 1
-- Development point 2
-
-  
- ![img_name](assets/img_name.jpg)  
+### [Terraform resources for MongoAtlas](https://github.com/orgs/empathyco/projects/15/views/1)
+**Author** [Itziar Esnal Gofinondo](https://github.com/ItziEG)
+- Terraform resource mongodbatlas_cluster
+- Finally not implementing, not compatible with free version

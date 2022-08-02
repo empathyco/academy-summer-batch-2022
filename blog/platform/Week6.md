@@ -1,5 +1,5 @@
 # Platform Week6- [CI/CD](https://github.com/empathyco/academy-platform-training-budget/blob/main/docs/ci-cd.md)
-< CI/CD pipeline creation>
+<CI/CD pipeline creation>
 
 ## Session
 
@@ -24,7 +24,7 @@
 <Statement>
 
   
-### [ Helm templating](https://github.com/empathyco/academy-platform-training-budget/tree/main/helm)
+### [Helm templating](https://github.com/empathyco/academy-platform-training-budget/tree/main/helm)
 **Author** [Martín Van Puffelen](https://github.com/martinvplopez) and [Itziar Esnal Gofinondo](https://github.com/ItziEG)
 - Templating configmap, deployment, ingress, namespace and  service
 - Starting container integration to Harbor
