@@ -4,7 +4,7 @@ This week was focused on market research for motive.co, overseeing LinkedIn Ads 
 ## Session
 ### Market research and Paid Social.
 
-*30-07-2022*
+*25-07-2022*
 
 <!-- (Do not change the line below!!!) -->
 | **Path Owner** | **Content Deliverer** |
