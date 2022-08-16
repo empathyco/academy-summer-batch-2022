@@ -29,11 +29,17 @@
 
 ### [MongoAtlas migration script](https://github.com/empathyco/academy-platform-training-budget/blob/main/data-migration/data-migration.js)
 **Author** [Martín Van Puffelen](https://github.com/martinvplopez)
-- Switch to migrate collections from GoogleSheets
-- Clean NodeJS dependencies
+- Script to standarize and migrate collections from GoogleSheets to MongoAtlas
   
-  
+### [Researching CDN versus Package](https://github.com/empathyco/academy-platform-training-budget/issues/54)
+**Author** [Martín Van Puffelen](https://github.com/martinvplopez)
+- Test different npm packages (angular wrapper vs vanilla) and also research on CDN performance and best practices when pushing an app to production.
+
 ### [Terraform resources for MongoAtlas](https://github.com/orgs/empathyco/projects/15/views/1)
 **Author** [Itziar Esnal Gofinondo](https://github.com/ItziEG)
 - Terraform resource mongodbatlas_cluster
 - Finally not implementing, not compatible with free version
+
+### [Jenkins optimization](https://github.com/empathyco/academy-platform-training-budget/blob/main/Jenkinsfile)
+**Author** [Itziar Esnal Gofinondo](https://github.com/ItziEG)
+- Optimizing stages 

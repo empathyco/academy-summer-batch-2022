@@ -1,5 +1,5 @@
-# Platform Week9- []()
-< Abstract of the week (small summary in max two lines).>
+# Platform Week9- [Logging](https://github.com/empathyco/academy-platform-training-budget/blob/main/back/api.js)
+< Incorporing logging to follow app behaviour>
 
 ## Session
 ### Max five words description
@@ -14,36 +14,29 @@
 \
 &nbsp; <!-- (Do not change this and above line PLEASE!!!) -->
 **Key learning points** <!-- (Do not change this line!!!) -->
-1. Most important point
-2. ...
-3. ...
-4. ...
-5. Less important point
+1. Demo presentation to Platfrom Engineering team
+2. Introduction to logging
 
-**** <!-- (Delete this comment and just leave the 4 *) -->
 
 ## Exercise
-(Autonomous work) <!-- Comment wheter if it is autonomous or group work -->
+(Autonomous and group work) <!-- Comment wheter if it is autonomous or group work -->
 <Statement>
-### [Exercise 1](link git repo)
-**Author** [name](link git user)
-- Development point 1
-- Development point 2
 
- ![img_name](assets/img_name.jpg)  
+### [Demo and presentation](https://training.empathy.co/budget)
+**Authors** [Martín Van Puffelen](https://github.com/martinvplopez) and [Itziar Esnal Gofinondo](https://github.com/ItziEG)
+- Important feedback from the group
 
-### [Exercise 2](link git repo)
-**Author** [name](link git user)
-- Development point 1
-- Development point 2
+ ### [Docker slim](https://github.com/empathyco/academy-platform-training-budget/issues/58)
+**Author** [Martín Van Puffelen](https://github.com/martinvplopez)
+- Researching tools and best practices to slim down docker images as well as adding it to jenkins pipeline
+- Ensuring the back service is as efficient and light as possible
 
-  
- ![img_name](assets/img_name.jpg)
-  
-### [Exercise 3](link git repo)
-**Author** [name](link git user)
-- Development point 1
-- Development point 2
+### [Implementing logging](https://github.com/empathyco/academy-platform-training-budget/blob/main/back/logging.js)
+**Authors** [Martín Van Puffelen](https://github.com/martinvplopez) and [Itziar Esnal Gofinondo](https://github.com/ItziEG)
+- Logging levels research
+- Tracking application events
 
-  
- ![img_name](assets/img_name.jpg)  
+### [K8S resource optimization](https://github.com/empathyco/academy-platform-training-budget/issues/61)
+**Author** [Itziar Esnal Gofinondo](https://github.com/ItziEG)
+- Testing resources locally
+- Updating resources optmization and observing grafana metrics
