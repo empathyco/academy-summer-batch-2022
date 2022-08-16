@@ -1,4 +1,4 @@
-# Platform Week4- [Containerization and Kubernetes](https://github.com/empathyco/academy-platform-training-budget/blob/main/docs/docker.md)
+# Platform Week4- [Containerization](https://github.com/empathyco/academy-platform-training-budget/blob/main/docs/docker.md)[ and Kubernetes](https://github.com/empathyco/academy-platform-training-budget/blob/main/docs/kubernetes.md)
 <Dockerize database and backend services>
 
 ## Session
